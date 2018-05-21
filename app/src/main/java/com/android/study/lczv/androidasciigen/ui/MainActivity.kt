@@ -23,7 +23,7 @@ class MainActivity : AppCompatActivity(), MainActivityContract.View {
     // From darkest to lightest
     var asciiArray = listOf(
 //            "\u2593", "\u2592", "\u2591"
-            "\u2588", "\u2589", "\u258A", "\u258B", "\u258C", "\u258D", "\u258E", "\u258F"
+            "\u2588", "\u2589", "\u258A", "\u258B", "\u258C", "\u258D", "\u258E", "\u258F", " "
     )
 
     companion object {
